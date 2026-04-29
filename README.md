@@ -13,10 +13,14 @@
 
 <p align="center">
   <!-- Badges -->
-  <img src="https://img.shields.io/badge/theme-blue-1E3A8A" />
-  <img src="https://img.shields.io/badge/theme-teal-14B8A6" />
-  <img src="https://img.shields.io/badge/type-resources-informational" />
-  <img src="https://img.shields.io/badge/status-active-success" />
+
+[![Status](https://img.shields.io/badge/status-active-14B8A6?style=flat)](http://www.repostatus.org/#active)
+[![PyPI version](https://img.shields.io/pypi/v/MirMachine?color=10B981&style=flat)](https://badge.fury.io/py/MirMachine)
+[![Conda Version](https://img.shields.io/conda/vn/bioconda/mirmachine?color=14B8A6&style=flat)](https://anaconda.org/bioconda/mirmachine)
+[![Conda Downloads](https://img.shields.io/conda/dn/bioconda/mirmachine?color=10B981&style=flat)](https://anaconda.org/bioconda/mirmachine)
+[![Last Release](https://img.shields.io/conda/latest/bioconda/mirmachine?color=14B8A6&style=flat)](https://anaconda.org/bioconda/mirmachine)
+[![Docker Pulls](https://img.shields.io/docker/pulls/sinanugur/mirmachine?color=10B981&style=flat)](https://hub.docker.com/r/sinanugur/mirmachine)
+
 </p>
 
 ---
