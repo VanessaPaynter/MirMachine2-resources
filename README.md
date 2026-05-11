@@ -1,10 +1,6 @@
 # MirMachine2-resources
 <!-- ========================= HEADER ========================= -->
 
-<p align="center">
-  <img src="https://via.placeholder.com/1200x240.png?text=MirMachine2-resources" alt="MirMachine2-resources banner" />
-</p>
-
 <h1 align="center"> MirMachine2-resources</h1>
 
 <p align="center">
