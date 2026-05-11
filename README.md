@@ -1,4 +1,4 @@
-# MirMachine2-resources
+
 <!-- ========================= HEADER ========================= -->
 
 <h1 align="center"> MirMachine2-resources</h1>
