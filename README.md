@@ -22,8 +22,8 @@
 
 **MirMachine2-resources** complements the MirMachine ecosystem by providing:
 
-* 📊 Raw datasets used in analyses
-* 🧬 Original code for microRNA detection workflows
+* 📊 Datasets used in analyses for the manuscript
+* 🧬 Original code for workflows
 * 📈 Figure generation scripts and outputs
 
 This repository is designed to support **reproducibility, benchmarking, and downstream analysis**.
@@ -61,27 +61,7 @@ This repository is **not standalone**. Typical workflow:
 3. Run scripts from `/scripts`
 4. Reproduce figures from `/figures`
 
----
 
-## 🎨 Design System
-
-Blue → Teal spectrum used for visual identity:
-
-| Role         | Hex       |
-| ------------ | --------- |
-| Primary Blue | `#1E3A8A` |
-| Deep Blue    | `#1D4ED8` |
-| Accent Teal  | `#14B8A6` |
-| Light Teal   | `#5EEAD4` |
-| Background   | `#0F172A` |
-
----
-
-## 🧪 Purpose
-
-* Ensure **reproducibility**
-* Provide **transparent access to data and code**
-* Support **method validation and extension**
 
 ---
 
@@ -91,20 +71,11 @@ Blue → Teal spectrum used for visual identity:
 * Large datasets may require significant computational resources
 * Check script headers for parameters and usage
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome:
-
-* Improve reproducibility workflows
-* Optimize scripts
-* Expand datasets or annotations
 
 ---
 
 ## 🌐 Acknowledgments
 
-Developed as part of ongoing work in **microRNA discovery and genome analysis**.
+Developed as part of ongoing work in **microRNA discovery and genome analysis** at the Arctic University of Norway.
 
 ---
